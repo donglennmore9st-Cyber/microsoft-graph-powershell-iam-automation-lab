@@ -16,7 +16,7 @@ The goal of this lab was to automate common Identity and Access Management (IAM)
 - Certificate-based Microsoft Graph authentication
 - Reusable PowerShell error handling
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - Microsoft Entra ID
 - Microsoft Graph
@@ -26,8 +26,13 @@ The goal of this lab was to automate common Identity and Access Management (IAM)
 - Certificate-based authentication
 - CSV input/output
 
-## 🔐 Authentication
+## 💻 PowerShell Script
 
+View the sanitized portfolio version of the automation script:
+
+[View Lab 12 IAM Automation Script](scripts/lab12-iam-automation.ps1)
+
+## 🔐 Authentication
 Configured application-only Microsoft Graph authentication using an Entra App Registration and certificate.
 
 The workflow validated:
